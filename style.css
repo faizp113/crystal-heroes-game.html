@@ -1,0 +1,44 @@
+body{
+	
+	background-image: url("https://images.alphacoders.com/241/thumb-1920-241901.jpg");
+    background-color: #cccccc;
+
+}
+
+.hero-image {
+      width: 290px;
+      height: 300px;
+     margin-right: 5px;
+}
+
+li{
+	color: white;
+	font-family: verdana;
+	font-size: 12px;
+}
+h1{
+	font-size: 70px;
+	color: darkgrey;
+}
+
+#total-score{
+	font-size: 40px;
+	color: darkgrey;
+	float: left;
+	clear: both;
+}
+#wins-losses{
+	float: left;
+	clear: both;
+	font-size: 22px;
+	color: black;
+}
+.btn{
+	float: left;
+	clear: both;
+	background-color: darkblue;
+	color: white;
+	width: 100px;
+	margin-top: : 10px;
+	text-align: center;
+}
